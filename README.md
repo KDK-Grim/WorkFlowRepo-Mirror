@@ -62,7 +62,7 @@ Use:
 
 ```bash
 # Clone the repo
-git clone https://github.com/statikfintechllc/WorkFlowRepo.git
+git clone https://github.com/KDK-Grim/WorkFlowRepo.git
 cd WorkFlowRepo-Mirror
 ls
 cd .github/workflows

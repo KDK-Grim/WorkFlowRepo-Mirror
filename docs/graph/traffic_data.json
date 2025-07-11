@@ -2,8 +2,8 @@
   "clones": [
     {
       "timestamp": "2025-06-27T00:00:00Z",
-      "count": 195,
-      "uniques": 47
+      "count": 185,
+      "uniques": 45
     },
     {
       "timestamp": "2025-06-28T00:00:00Z",
@@ -69,13 +69,18 @@
       "timestamp": "2025-07-10T00:00:00Z",
       "count": 9,
       "uniques": 6
+    },
+    {
+      "timestamp": "2025-07-11T00:00:00Z",
+      "count": 2,
+      "uniques": 2
     }
   ],
   "views": [
     {
       "timestamp": "2025-06-27T00:00:00Z",
-      "count": 266,
-      "uniques": 4
+      "count": 259,
+      "uniques": 3
     },
     {
       "timestamp": "2025-06-28T00:00:00Z",
@@ -139,7 +144,7 @@
     },
     {
       "timestamp": "2025-07-10T00:00:00Z",
-      "count": 99,
+      "count": 108,
       "uniques": 2
     }
   ]

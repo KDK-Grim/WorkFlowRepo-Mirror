@@ -2,8 +2,8 @@
   "clones": [
     {
       "timestamp": "2025-06-27T00:00:00Z",
-      "count": 141,
-      "uniques": 34
+      "count": 131,
+      "uniques": 33
     },
     {
       "timestamp": "2025-06-28T00:00:00Z",
@@ -79,7 +79,7 @@
   "views": [
     {
       "timestamp": "2025-06-27T00:00:00Z",
-      "count": 148,
+      "count": 143,
       "uniques": 3
     },
     {

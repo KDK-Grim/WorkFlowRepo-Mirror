@@ -1,15 +1,15 @@
 {
   "day": {
-    "clones": 9,
-    "uniqueClones": 6,
-    "views": 108,
-    "uniqueViews": 2
+    "clones": 2,
+    "uniqueClones": 2,
+    "views": 3,
+    "uniqueViews": 1
   },
   "range14d": {
-    "clones": 1836,
-    "uniqueClones": 378,
-    "views": 2932,
-    "uniqueViews": 41
+    "clones": 1658,
+    "uniqueClones": 335,
+    "views": 2676,
+    "uniqueViews": 39
   },
   "lifetime": {
     "clones": 2678,

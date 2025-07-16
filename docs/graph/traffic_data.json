@@ -73,11 +73,6 @@
   ],
   "views": [
     {
-      "timestamp": "2025-07-02T00:00:00Z",
-      "count": 1,
-      "uniques": 1
-    },
-    {
       "timestamp": "2025-07-03T00:00:00Z",
       "count": 73,
       "uniques": 2

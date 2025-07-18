@@ -7,12 +7,14 @@ TOKEN = os.getenv("PULL_STATIK_PAT")
 HEADERS = {"Authorization": f"token {TOKEN}"}
 
 REPOS = [
-    "statikfintechllc/AscendAI",
+    "statikfintechllc/Ascend%20Institute",
     "statikfintechllc/Mobile-Developer",
     "statikfintechllc/AscendDocs-of-GovSeverance",
     "statikfintechllc/GodCore",
     "statikfintechllc/AscendNet",
     "statikfintechllc/WorkFlowRepo"
+    "statikfintechllc/statik-server",
+    "statikfintechllc/Shadcn-tailwind-junglegym",
 ]
 
 stats = []

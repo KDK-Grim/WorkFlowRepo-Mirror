@@ -141,6 +141,11 @@
       "timestamp": "2025-07-19T00:00:00Z",
       "count": 57,
       "uniques": 10
+    },
+    {
+      "timestamp": "2025-07-20T00:00:00Z",
+      "count": 27,
+      "uniques": 1
     }
   ]
 }

@@ -72,8 +72,8 @@
     },
     {
       "timestamp": "2025-07-20T00:00:00Z",
-      "count": 4,
-      "uniques": 3
+      "count": 7,
+      "uniques": 5
     }
   ],
   "views": [
@@ -149,7 +149,7 @@
     },
     {
       "timestamp": "2025-07-20T00:00:00Z",
-      "count": 41,
+      "count": 75,
       "uniques": 1
     }
   ]

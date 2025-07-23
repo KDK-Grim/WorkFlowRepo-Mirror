@@ -99,7 +99,7 @@ def plot_github_style_merged(clones, views, outfile):
 
     ax.set_xlabel("Date")
     ax.set_ylabel("Count")
-    ax.set_title("AscendAI GitHub Traffic (Last 14 Days)")
+    ax.set_title("Ascend Institute GitHub Traffic (Last 14 Days)")
     ax.legend()
     ax.xaxis.set_major_locator(mdates.DayLocator())
     ax.xaxis.set_major_formatter(mdates.DateFormatter("%m/%d"))

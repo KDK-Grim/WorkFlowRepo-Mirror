@@ -25,10 +25,10 @@ jobs:
       - name: Install Python dependencies
         run: pip install requests matplotlib
 
-      - name: Fetch traffic from AscendAI (StatikFinTech)
+      - name: Fetch traffic from GremlinGPT (StatikFinTech)
         env:
           PAT_GITHUB: ${{ secrets.PULL_STATIK_PAT }}
-          REPO: statikfintechllc/Ascend-Institute
+          REPO: statikfintechllc/GremlinGPT
         run: python ./docs/graph/fetch_traffic.py
 
       - name: Commit & push graph changes (KDK-Grim)

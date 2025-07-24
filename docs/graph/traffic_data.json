@@ -4,6 +4,11 @@
       "timestamp": "2025-07-23T00:00:00Z",
       "count": 21,
       "uniques": 20
+    },
+    {
+      "timestamp": "2025-07-24T00:00:00Z",
+      "count": 1,
+      "uniques": 1
     }
   ],
   "views": [

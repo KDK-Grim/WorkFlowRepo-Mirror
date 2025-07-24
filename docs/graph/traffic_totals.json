@@ -2,13 +2,13 @@
   "day": {
     "clones": 1,
     "uniqueClones": 1,
-    "views": 3,
+    "views": 7,
     "uniqueViews": 1
   },
   "range14d": {
     "clones": 22,
     "uniqueClones": 21,
-    "views": 79,
+    "views": 83,
     "uniqueViews": 6
   },
   "lifetime": {

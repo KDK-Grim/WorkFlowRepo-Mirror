@@ -14,7 +14,7 @@
     "views": 629,
     "visitors": 26,
     "pulls_count": 0,
-    "fetched": "2025-07-27T07:54:07.668777"
+    "fetched": "2025-07-27T08:00:22.153497"
   },
   {
     "repo": "statik-server",
@@ -31,7 +31,7 @@
     "views": 301,
     "visitors": 6,
     "pulls_count": 0,
-    "fetched": "2025-07-27T07:54:08.148076"
+    "fetched": "2025-07-27T08:00:22.659870"
   },
   {
     "repo": "GremlinGPT",
@@ -48,7 +48,7 @@
     "views": 397,
     "visitors": 6,
     "pulls_count": 1,
-    "fetched": "2025-07-27T07:54:08.700911"
+    "fetched": "2025-07-27T08:00:23.186712"
   },
   {
     "repo": "Gremlin-MCP-Scrap",
@@ -65,7 +65,7 @@
     "views": 140,
     "visitors": 2,
     "pulls_count": 0,
-    "fetched": "2025-07-27T07:54:09.083363"
+    "fetched": "2025-07-27T08:00:23.609968"
   },
   {
     "repo": "Gremlin-ShadTail-Trader",
@@ -82,7 +82,7 @@
     "views": 528,
     "visitors": 4,
     "pulls_count": 1,
-    "fetched": "2025-07-27T07:54:09.654620"
+    "fetched": "2025-07-27T08:00:24.122063"
   },
   {
     "repo": "Mobile-Mirror",
@@ -99,7 +99,7 @@
     "views": 27,
     "visitors": 4,
     "pulls_count": 0,
-    "fetched": "2025-07-27T07:54:10.103043"
+    "fetched": "2025-07-27T08:00:24.547304"
   },
   {
     "repo": "AscendDocs-of-GovSeverance",
@@ -116,7 +116,7 @@
     "views": 53,
     "visitors": 4,
     "pulls_count": 0,
-    "fetched": "2025-07-27T07:54:10.570701"
+    "fetched": "2025-07-27T08:00:24.969681"
   },
   {
     "repo": "GodCore",
@@ -128,12 +128,12 @@
     "size_kb": 26724,
     "default_branch": "master",
     "updated_at": "2025-07-12T21:58:19Z",
-    "clones": 8,
-    "uniques": 6,
+    "clones": 7,
+    "uniques": 5,
     "views": 10,
     "visitors": 5,
     "pulls_count": 0,
-    "fetched": "2025-07-27T07:54:10.975786"
+    "fetched": "2025-07-27T08:00:25.382607"
   },
   {
     "repo": "AscendNet",
@@ -150,7 +150,7 @@
     "views": 40,
     "visitors": 5,
     "pulls_count": 0,
-    "fetched": "2025-07-27T07:54:11.411018"
+    "fetched": "2025-07-27T08:00:25.796216"
   },
   {
     "repo": "WorkFlowRepo-Mirror",
@@ -167,6 +167,6 @@
     "views": 0,
     "visitors": 0,
     "pulls_count": 0,
-    "fetched": "2025-07-27T07:54:11.861581"
+    "fetched": "2025-07-27T08:00:26.262629"
   }
 ]

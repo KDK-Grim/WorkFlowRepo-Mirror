@@ -11,10 +11,10 @@
     "updated_at": "2025-07-23T01:52:53Z",
     "clones": 81,
     "uniques": 48,
-    "views": 570,
-    "visitors": 26,
+    "views": 569,
+    "visitors": 25,
     "pulls_count": 0,
-    "fetched": "2025-07-28T20:47:05.627415"
+    "fetched": "2025-07-28T21:00:23.295024"
   },
   {
     "repo": "statik-server",
@@ -26,12 +26,12 @@
     "size_kb": 354209,
     "default_branch": "master",
     "updated_at": "2025-07-22T00:11:03Z",
-    "clones": 399,
-    "uniques": 48,
-    "views": 138,
+    "clones": 398,
+    "uniques": 47,
+    "views": 136,
     "visitors": 2,
     "pulls_count": 0,
-    "fetched": "2025-07-28T20:47:06.390120"
+    "fetched": "2025-07-28T21:00:24.247323"
   },
   {
     "repo": "GremlinGPT",
@@ -48,7 +48,7 @@
     "views": 401,
     "visitors": 6,
     "pulls_count": 1,
-    "fetched": "2025-07-28T20:47:07.287561"
+    "fetched": "2025-07-28T21:00:25.233857"
   },
   {
     "repo": "Gremlin-MCP-Scrap",
@@ -65,24 +65,24 @@
     "views": 140,
     "visitors": 2,
     "pulls_count": 0,
-    "fetched": "2025-07-28T20:47:08.079218"
+    "fetched": "2025-07-28T21:00:26.172298"
   },
   {
     "repo": "Gremlin-ShadTail-Trader",
     "stars": 0,
     "forks": 0,
     "watchers": 1,
-    "open_issues": 1,
+    "open_issues": 0,
     "language": "Python",
     "size_kb": 5074,
     "default_branch": "master",
-    "updated_at": "2025-07-27T01:20:55Z",
+    "updated_at": "2025-07-28T20:52:06Z",
     "clones": 115,
     "uniques": 88,
     "views": 531,
     "visitors": 4,
-    "pulls_count": 1,
-    "fetched": "2025-07-28T20:47:08.845542"
+    "pulls_count": 0,
+    "fetched": "2025-07-28T21:00:27.079319"
   },
   {
     "repo": "Mobile-Mirror",
@@ -94,12 +94,12 @@
     "size_kb": 30224,
     "default_branch": "master",
     "updated_at": "2025-07-20T03:35:43Z",
-    "clones": 9,
-    "uniques": 9,
+    "clones": 8,
+    "uniques": 8,
     "views": 3,
     "visitors": 2,
     "pulls_count": 0,
-    "fetched": "2025-07-28T20:47:09.511339"
+    "fetched": "2025-07-28T21:00:27.983296"
   },
   {
     "repo": "AscendDocs-of-GovSeverance",
@@ -111,12 +111,12 @@
     "size_kb": 3916,
     "default_branch": "master",
     "updated_at": "2025-07-23T06:35:06Z",
-    "clones": 10,
-    "uniques": 9,
+    "clones": 9,
+    "uniques": 8,
     "views": 53,
     "visitors": 4,
     "pulls_count": 0,
-    "fetched": "2025-07-28T20:47:10.201230"
+    "fetched": "2025-07-28T21:00:28.831945"
   },
   {
     "repo": "GodCore",
@@ -128,12 +128,12 @@
     "size_kb": 26724,
     "default_branch": "master",
     "updated_at": "2025-07-12T21:58:19Z",
-    "clones": 5,
-    "uniques": 4,
+    "clones": 4,
+    "uniques": 3,
     "views": 9,
     "visitors": 5,
     "pulls_count": 0,
-    "fetched": "2025-07-28T20:47:10.938110"
+    "fetched": "2025-07-28T21:00:29.738847"
   },
   {
     "repo": "AscendNet",
@@ -145,12 +145,12 @@
     "size_kb": 126625,
     "default_branch": "master",
     "updated_at": "2025-07-20T03:28:32Z",
-    "clones": 6,
-    "uniques": 6,
+    "clones": 5,
+    "uniques": 5,
     "views": 6,
     "visitors": 4,
     "pulls_count": 0,
-    "fetched": "2025-07-28T20:47:11.632812"
+    "fetched": "2025-07-28T21:00:30.628836"
   },
   {
     "repo": "WorkFlowRepo-Mirror",
@@ -167,6 +167,6 @@
     "views": 0,
     "visitors": 0,
     "pulls_count": 0,
-    "fetched": "2025-07-28T20:47:12.358800"
+    "fetched": "2025-07-28T21:00:31.582363"
   }
 ]

@@ -11,10 +11,10 @@
     "updated_at": "2025-07-23T01:52:53Z",
     "clones": 59,
     "uniques": 39,
-    "views": 404,
-    "visitors": 15,
+    "views": 389,
+    "visitors": 14,
     "pulls_count": 0,
-    "fetched": "2025-08-02T19:57:47.156547"
+    "fetched": "2025-08-02T20:25:31.341920"
   },
   {
     "repo": "statik-server",
@@ -31,7 +31,7 @@
     "views": 102,
     "visitors": 3,
     "pulls_count": 0,
-    "fetched": "2025-08-02T19:57:48.027650"
+    "fetched": "2025-08-02T20:25:32.463750"
   },
   {
     "repo": "GremlinGPT",
@@ -48,7 +48,7 @@
     "views": 460,
     "visitors": 7,
     "pulls_count": 0,
-    "fetched": "2025-08-02T19:57:48.878143"
+    "fetched": "2025-08-02T20:25:33.426950"
   },
   {
     "repo": "Gremlin-MCP-Scrap",
@@ -65,7 +65,7 @@
     "views": 39,
     "visitors": 2,
     "pulls_count": 0,
-    "fetched": "2025-08-02T19:57:49.710603"
+    "fetched": "2025-08-02T20:25:34.458543"
   },
   {
     "repo": "Gremlin-ShadTail-Trader",
@@ -82,7 +82,7 @@
     "views": 923,
     "visitors": 5,
     "pulls_count": 0,
-    "fetched": "2025-08-02T19:57:50.512094"
+    "fetched": "2025-08-02T20:25:35.460142"
   },
   {
     "repo": "Mobile-Mirror",
@@ -99,7 +99,7 @@
     "views": 3,
     "visitors": 2,
     "pulls_count": 0,
-    "fetched": "2025-08-02T19:57:51.361768"
+    "fetched": "2025-08-02T20:25:36.426742"
   },
   {
     "repo": "AscendDocs-of-GovSeverance",
@@ -116,7 +116,7 @@
     "views": 52,
     "visitors": 3,
     "pulls_count": 0,
-    "fetched": "2025-08-02T19:57:52.166859"
+    "fetched": "2025-08-02T20:25:37.437331"
   },
   {
     "repo": "GodCore",
@@ -133,7 +133,7 @@
     "views": 5,
     "visitors": 4,
     "pulls_count": 0,
-    "fetched": "2025-08-02T19:57:53.005565"
+    "fetched": "2025-08-02T20:25:38.428995"
   },
   {
     "repo": "AscendNet",
@@ -150,7 +150,7 @@
     "views": 5,
     "visitors": 3,
     "pulls_count": 0,
-    "fetched": "2025-08-02T19:57:53.866563"
+    "fetched": "2025-08-02T20:25:39.541094"
   },
   {
     "repo": "WorkFlowRepo-Mirror",
@@ -167,6 +167,6 @@
     "views": 0,
     "visitors": 0,
     "pulls_count": 0,
-    "fetched": "2025-08-02T19:57:54.774243"
+    "fetched": "2025-08-02T20:25:40.579151"
   }
 ]

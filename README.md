@@ -71,7 +71,23 @@ Or with wget:
 wget -qO- https://raw.githubusercontent.com/KDK-Grim/WorkFlowRepo-Mirror/master/curl_wget_script/cw.script | bash
 ```
 
-or
+<div align="center">
+  <a href="https://ko-fi.com/statikfintech_llc">
+  <img  
+	  src="https://img.shields.io/badge/Sponsor%20SFTi%20on%20KoFi-darkred?style=for-the-badge&logo=dragon&logoColor=gold" alt="Support"/>
+  </a>
+  <a href="https://patreon.com/StatikFinTech_LLC?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink">
+  <img  
+	  src="https://img.shields.io/badge/Sponsor%20SFTi%20on%20Patreon-black?style=for-the-badge&logo=dragon&logoColor=gold" alt="SFTi"/>
+  </a>
+</div>
+<div align="center">
+
+[![Sponsor 💪 statikfintechllc](https://img.shields.io/badge/Sponsor%20SFTi%20on%20GitHub-darkred?logo=github&style=for-the-badge)](https://github.com/sponsors/statikfintechllc)
+
+</div>
+
+**Manual Install**:
 
 ```bash
 # Clone the repo
@@ -234,22 +250,6 @@ The Graph
 </div>
 
 </details>
-
-<div align="center">
-  <a href="https://ko-fi.com/statikfintech_llc">
-  <img  
-	  src="https://img.shields.io/badge/Sponsor%20SFTi%20on%20KoFi-darkred?style=for-the-badge&logo=dragon&logoColor=gold" alt="Support"/>
-  </a>
-  <a href="https://patreon.com/StatikFinTech_LLC?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink">
-  <img  
-	  src="https://img.shields.io/badge/Sponsor%20SFTi%20on%20Patreon-black?style=for-the-badge&logo=dragon&logoColor=gold" alt="SFTi"/>
-  </a>
-</div>
-<div align="center">
-
-[![Sponsor 💪 statikfintechllc](https://img.shields.io/badge/Sponsor%20SFTi%20on%20GitHub-darkred?logo=github&style=for-the-badge)](https://github.com/sponsors/statikfintechllc)
-
-</div>
 
 ---
 

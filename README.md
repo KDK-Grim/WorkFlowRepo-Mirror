@@ -61,14 +61,14 @@ Use:
 
 ```bash
 # Download and run the quick install script
-curl -s https://raw.githubusercontent.com/KDK-Grim/WorkFlowRepo-Mirror/master/curl_wget_script/cw.script.sh | bash
+curl -s https://raw.githubusercontent.com/KDK-Grim/WorkFlowRepo-Mirror/master/curl_wget_script/cw.script | bash
 ```
 
 Or with wget:
 
 ```bash
 # Download and run the quick install script
-wget -qO- https://raw.githubusercontent.com/KDK-Grim/WorkFlowRepo-Mirror/master/curl_wget_script/cw.script.sh | bash
+wget -qO- https://raw.githubusercontent.com/KDK-Grim/WorkFlowRepo-Mirror/master/curl_wget_script/cw.script | bash
 ```
 
 or

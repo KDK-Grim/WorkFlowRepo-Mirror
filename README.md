@@ -19,7 +19,7 @@
 <div align="center">
 
   <a href="https://github.com/statikfintechllc/AscendAI/blob/master/GremlinGPT">
-  <img src="https://img.shields.io/badge/Buils-passing-darkred?labelColor=black" alt="GremlinGPT Alpha"/>
+  <img src="https://img.shields.io/badge/Build-passing-darkred?labelColor=black" alt="GremlinGPT Alpha"/>
   </a>
   <a href="https://github.com/statikfintechllc/AscendAI/blob/master/About Us/FOUNDER_LOG.md">
   <img src="https://img.shields.io/badge/Founder's%20Log-Manifesto-darkred?labelColor=black" alt="Founder's Log"/>
@@ -56,6 +56,12 @@
 </div>
 
 Use:
+
+- `wget`
+
+- `curl`
+
+or
 
 ```bash
 # Clone the repo

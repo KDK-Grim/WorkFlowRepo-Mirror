@@ -8,15 +8,14 @@ HEADERS = {"Authorization": f"token {TOKEN}"}
 
 REPOS = [
     "statikfintechllc/Ascend-Institute",
-    "statikfintechllc/statik-server",
     "statikfintechllc/GremlinGPT",
-    "statikfintechllc/Gremlin-MCP-Scrap",
+    "statikfintechllc/statik-server",
     "statikfintechllc/Gremlin-ShadTail-Trader",
-    "statikfintechllc/Mobile-Mirror",
+    "statikfintechllc/Gremlin-MCP-Scrap",
+    "statikfintechllc/dragon-boot",
     "statikfintechllc/AscendDocs-of-GovSeverance",
     "statikfintechllc/GodCore",
-    "statikfintechllc/AscendNet",
-    "statikfintechllc/WorkFlowRepo-Mirror"
+    "statikfintechllc/AscendNet"
 ]
 
 stats = []

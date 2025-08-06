@@ -14,7 +14,7 @@
     "views": 81,
     "visitors": 8,
     "pulls_count": 0,
-    "fetched": "2025-08-06T22:48:18.607936"
+    "fetched": "2025-08-06T23:00:05.755852"
   },
   {
     "repo": "GremlinGPT",
@@ -31,7 +31,7 @@
     "views": 458,
     "visitors": 3,
     "pulls_count": 0,
-    "fetched": "2025-08-06T22:48:19.108834"
+    "fetched": "2025-08-06T23:00:06.379230"
   },
   {
     "repo": "statik-server",
@@ -48,7 +48,7 @@
     "views": 86,
     "visitors": 5,
     "pulls_count": 0,
-    "fetched": "2025-08-06T22:48:19.615027"
+    "fetched": "2025-08-06T23:00:06.991958"
   },
   {
     "repo": "Gremlin-ShadTail-Trader",
@@ -60,12 +60,12 @@
     "size_kb": 343373,
     "default_branch": "master",
     "updated_at": "2025-08-04T17:44:19Z",
-    "clones": 141,
-    "uniques": 97,
-    "views": 916,
+    "clones": 135,
+    "uniques": 94,
+    "views": 868,
     "visitors": 5,
     "pulls_count": 1,
-    "fetched": "2025-08-06T22:48:20.180157"
+    "fetched": "2025-08-06T23:00:07.616699"
   },
   {
     "repo": "Gremlin-MCP-Scrap",
@@ -82,7 +82,7 @@
     "views": 23,
     "visitors": 2,
     "pulls_count": 0,
-    "fetched": "2025-08-06T22:48:20.701202"
+    "fetched": "2025-08-06T23:00:08.322257"
   },
   {
     "repo": "dragon-boot",
@@ -99,7 +99,7 @@
     "views": 81,
     "visitors": 1,
     "pulls_count": 0,
-    "fetched": "2025-08-06T22:48:21.196914"
+    "fetched": "2025-08-06T23:00:08.932546"
   },
   {
     "repo": "AscendDocs-of-GovSeverance",
@@ -116,7 +116,7 @@
     "views": 22,
     "visitors": 7,
     "pulls_count": 0,
-    "fetched": "2025-08-06T22:48:21.655018"
+    "fetched": "2025-08-06T23:00:09.475378"
   },
   {
     "repo": "GodCore",
@@ -133,7 +133,7 @@
     "views": 9,
     "visitors": 4,
     "pulls_count": 0,
-    "fetched": "2025-08-06T22:48:22.148280"
+    "fetched": "2025-08-06T23:00:10.082302"
   },
   {
     "repo": "AscendNet",
@@ -150,6 +150,6 @@
     "views": 3,
     "visitors": 3,
     "pulls_count": 0,
-    "fetched": "2025-08-06T22:48:22.682209"
+    "fetched": "2025-08-06T23:00:10.661920"
   }
 ]

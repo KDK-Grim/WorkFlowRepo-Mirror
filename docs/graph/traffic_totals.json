@@ -8,13 +8,13 @@
   "range14d": {
     "clones": 55,
     "uniqueClones": 51,
-    "views": 308,
+    "views": 301,
     "uniqueViews": 13
   },
   "lifetime": {
     "clones": 2710,
     "uniqueClones": 586,
-    "views": 2954,
-    "uniqueViews": 95
+    "views": 2959,
+    "uniqueViews": 96
   }
 }

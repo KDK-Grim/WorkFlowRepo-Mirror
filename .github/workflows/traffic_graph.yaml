@@ -8,11 +8,21 @@ on:
     - cron: "*/5 * * * *"
   workflow_dispatch:
 
+concurrency:
+  group: traffic-graph
+  cancel-in-progress: true
+
 jobs:
   update-traffic:
     runs-on: ubuntu-latest
+    env:
+      # Used by your Python script
+      PAT_GITHUB: ${{ secrets.PULL_STATIK_PAT }}
+      REPO: statikfintechllc/GremlinGPT
+      TRAFFIC_TITLE: GremlinGPT GitHub Traffic (Last 14 Days)
+      MPLBACKEND: Agg
     steps:
-      - name: Checkout WorkFlowRepo (KDK-Grim)
+      - name: Checkout repo
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -22,22 +32,21 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install Python dependencies
-        run: pip install requests matplotlib
+      - name: Install deps
+        run: pip install --disable-pip-version-check --no-cache-dir requests matplotlib
 
-      - name: Fetch traffic from GremlinGPT (StatikFinTech)
-        env:
-          PAT_GITHUB: ${{ secrets.PULL_STATIK_PAT }}
-          REPO: statikfintechllc/GremlinGPT
-        run: python ./docs/graph/fetch_traffic.py
+      - name: Build traffic data & graph
+        run: python -u ./docs/graph/fetch_traffic.py
 
-      - name: Commit & push graph changes (KDK-Grim)
-        env:
-          GH_TOKEN: ${{ secrets.PAT_GITHUB }}
+      - name: Commit & push if changed
         run: |
-          git config --global user.name "gremlin-bot"
-          git config --global user.email "actions@github.com"
-          git add docs/graph/
-          git commit -m "Update traffic data and graph" || echo "No changes to commit"
-          git pull --rebase
-          git push
+          if ! git diff --quiet -- docs/graph/; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add docs/graph/
+            git commit -m "Update traffic data and graph"
+            git pull --rebase
+            git push
+          else
+            echo "No changes to commit."
+          fi

@@ -40,13 +40,10 @@ jobs:
 
       - name: Commit & push if changed
         run: |
-          if ! git diff --quiet -- docs/graph/; then
-            git config user.name  "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add docs/graph/
-            git commit -m "Update traffic data and graph"
-            git pull --rebase
-            git push
-          else
-            echo "No changes to commit."
-          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/graph/
+          git commit -m "Update traffic data and graph"
+          git pull --rebase
+          git push
+    

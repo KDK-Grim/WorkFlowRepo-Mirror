@@ -1,7 +1,5 @@
 name: Update LED Ticker
 
-
-
 on:
   schedule:
     - cron: "*5 * * * *"

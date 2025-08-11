@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       # Used by your Python script
-      PAT_GITHUB: ${{ secrets.PULL_STATIK_PAT }}
+      PAT_GITHUB: ${{ secrets.PAT_GITHUB }}
       REPO: statikfintechllc/GremlinGPT
       TRAFFIC_TITLE: GremlinGPT GitHub Traffic (Last 14 Days)
       MPLBACKEND: Agg

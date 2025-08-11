@@ -2,19 +2,15 @@ name: Update Traffic Graph
 
 on:
   schedule:
-   - cron: "*5 * * * *"
+    - cron: "*/5 * * * *" # every 6 hours
   workflow_dispatch:
 
-permissions:
-  contents: write
-
-concurrency:
-  group: traffic-graph
-  cancel-in-progress: true
-
 jobs:
-  update-traffic:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+ 
     env:
       # Used by your Python script
       PAT_GITHUB: ${{ secrets.PAT_GITHUB }}

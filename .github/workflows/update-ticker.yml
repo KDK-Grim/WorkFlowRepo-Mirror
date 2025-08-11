@@ -1,7 +1,6 @@
 name: Update LED Ticker
 
-permissions:
-  contents: write
+
 
 on:
   schedule:
@@ -11,6 +10,8 @@ on:
 jobs:
   update-ticker:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout WorkFlowRepo (KDK-Grim)

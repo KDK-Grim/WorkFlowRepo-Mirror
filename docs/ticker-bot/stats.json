@@ -14,7 +14,7 @@
     "views": 115,
     "visitors": 7,
     "pulls_count": 0,
-    "fetched": "2025-08-12T07:56:24.591716"
+    "fetched": "2025-08-12T08:23:35.050215"
   },
   {
     "repo": "GremlinGPT",
@@ -31,7 +31,7 @@
     "views": 168,
     "visitors": 9,
     "pulls_count": 0,
-    "fetched": "2025-08-12T07:56:25.121031"
+    "fetched": "2025-08-12T08:23:35.516045"
   },
   {
     "repo": "statik-server",
@@ -48,7 +48,7 @@
     "views": 75,
     "visitors": 5,
     "pulls_count": 0,
-    "fetched": "2025-08-12T07:56:25.808552"
+    "fetched": "2025-08-12T08:23:36.111495"
   },
   {
     "repo": "Gremlin-ShadTail-Trader",
@@ -60,12 +60,12 @@
     "size_kb": 343356,
     "default_branch": "master",
     "updated_at": "2025-08-08T00:03:12Z",
-    "clones": 82,
-    "uniques": 60,
-    "views": 681,
+    "clones": 81,
+    "uniques": 59,
+    "views": 668,
     "visitors": 4,
     "pulls_count": 1,
-    "fetched": "2025-08-12T07:56:26.405717"
+    "fetched": "2025-08-12T08:23:36.671614"
   },
   {
     "repo": "Gremlin-MCP-Scrap",
@@ -82,7 +82,7 @@
     "views": 30,
     "visitors": 1,
     "pulls_count": 0,
-    "fetched": "2025-08-12T07:56:26.954077"
+    "fetched": "2025-08-12T08:23:37.205273"
   },
   {
     "repo": "dragon-boot",
@@ -99,7 +99,7 @@
     "views": 150,
     "visitors": 5,
     "pulls_count": 0,
-    "fetched": "2025-08-12T07:56:27.459487"
+    "fetched": "2025-08-12T08:23:37.745741"
   },
   {
     "repo": "AscendDocs-of-GovSeverance",
@@ -116,7 +116,7 @@
     "views": 45,
     "visitors": 10,
     "pulls_count": 0,
-    "fetched": "2025-08-12T07:56:28.103194"
+    "fetched": "2025-08-12T08:23:38.281352"
   },
   {
     "repo": "GodCore",
@@ -133,7 +133,7 @@
     "views": 10,
     "visitors": 6,
     "pulls_count": 0,
-    "fetched": "2025-08-12T07:56:28.662311"
+    "fetched": "2025-08-12T08:23:38.717713"
   },
   {
     "repo": "AscendNet",
@@ -150,6 +150,6 @@
     "views": 4,
     "visitors": 2,
     "pulls_count": 0,
-    "fetched": "2025-08-12T07:56:29.226205"
+    "fetched": "2025-08-12T08:23:39.198724"
   }
 ]

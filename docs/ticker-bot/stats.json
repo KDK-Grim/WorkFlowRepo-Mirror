@@ -14,7 +14,7 @@
     "views": 171,
     "visitors": 7,
     "pulls_count": 0,
-    "fetched": "2025-08-13T20:58:16.023443"
+    "fetched": "2025-08-13T21:20:11.213765"
   },
   {
     "repo": "GremlinGPT",
@@ -31,7 +31,7 @@
     "views": 183,
     "visitors": 19,
     "pulls_count": 0,
-    "fetched": "2025-08-13T20:58:16.834844"
+    "fetched": "2025-08-13T21:20:12.000337"
   },
   {
     "repo": "statik-server",
@@ -48,7 +48,7 @@
     "views": 74,
     "visitors": 4,
     "pulls_count": 0,
-    "fetched": "2025-08-13T20:58:17.600328"
+    "fetched": "2025-08-13T21:20:12.726978"
   },
   {
     "repo": "Gremlin-ShadTail-Trader",
@@ -60,12 +60,12 @@
     "size_kb": 343356,
     "default_branch": "master",
     "updated_at": "2025-08-08T00:03:12Z",
-    "clones": 71,
-    "uniques": 54,
+    "clones": 70,
+    "uniques": 53,
     "views": 516,
     "visitors": 5,
     "pulls_count": 1,
-    "fetched": "2025-08-13T20:58:18.422052"
+    "fetched": "2025-08-13T21:20:13.498677"
   },
   {
     "repo": "Gremlin-MCP-Scrap",
@@ -82,7 +82,7 @@
     "views": 32,
     "visitors": 3,
     "pulls_count": 0,
-    "fetched": "2025-08-13T20:58:19.172111"
+    "fetched": "2025-08-13T21:20:14.164360"
   },
   {
     "repo": "dragon-boot",
@@ -99,7 +99,7 @@
     "views": 150,
     "visitors": 5,
     "pulls_count": 0,
-    "fetched": "2025-08-13T20:58:20.015734"
+    "fetched": "2025-08-13T21:20:14.839943"
   },
   {
     "repo": "AscendDocs-of-GovSeverance",
@@ -116,7 +116,7 @@
     "views": 48,
     "visitors": 9,
     "pulls_count": 0,
-    "fetched": "2025-08-13T20:58:20.797773"
+    "fetched": "2025-08-13T21:20:15.543453"
   },
   {
     "repo": "GodCore",
@@ -133,7 +133,7 @@
     "views": 10,
     "visitors": 6,
     "pulls_count": 0,
-    "fetched": "2025-08-13T20:58:21.546842"
+    "fetched": "2025-08-13T21:20:16.190450"
   },
   {
     "repo": "AscendNet",
@@ -150,6 +150,6 @@
     "views": 4,
     "visitors": 2,
     "pulls_count": 0,
-    "fetched": "2025-08-13T20:58:22.357855"
+    "fetched": "2025-08-13T21:20:16.860486"
   }
 ]

@@ -14,7 +14,7 @@
     "views": 180,
     "visitors": 8,
     "pulls_count": 0,
-    "fetched": "2025-08-14T14:46:36.692839"
+    "fetched": "2025-08-14T15:24:54.372945"
   },
   {
     "repo": "GremlinGPT",
@@ -31,7 +31,7 @@
     "views": 198,
     "visitors": 20,
     "pulls_count": 0,
-    "fetched": "2025-08-14T14:46:37.218852"
+    "fetched": "2025-08-14T15:24:54.954103"
   },
   {
     "repo": "statik-server",
@@ -48,7 +48,7 @@
     "views": 56,
     "visitors": 3,
     "pulls_count": 0,
-    "fetched": "2025-08-14T14:46:37.759861"
+    "fetched": "2025-08-14T15:24:55.582944"
   },
   {
     "repo": "Gremlin-ShadTail-Trader",
@@ -62,10 +62,10 @@
     "updated_at": "2025-08-08T00:03:12Z",
     "clones": 68,
     "uniques": 52,
-    "views": 476,
+    "views": 459,
     "visitors": 6,
     "pulls_count": 1,
-    "fetched": "2025-08-14T14:46:38.319230"
+    "fetched": "2025-08-14T15:24:56.359138"
   },
   {
     "repo": "Gremlin-MCP-Scrap",
@@ -82,7 +82,7 @@
     "views": 32,
     "visitors": 3,
     "pulls_count": 0,
-    "fetched": "2025-08-14T14:46:38.824631"
+    "fetched": "2025-08-14T15:24:57.131241"
   },
   {
     "repo": "dragon-boot",
@@ -99,7 +99,7 @@
     "views": 150,
     "visitors": 5,
     "pulls_count": 0,
-    "fetched": "2025-08-14T14:46:39.410342"
+    "fetched": "2025-08-14T15:24:57.656762"
   },
   {
     "repo": "AscendDocs-of-GovSeverance",
@@ -116,7 +116,7 @@
     "views": 49,
     "visitors": 10,
     "pulls_count": 0,
-    "fetched": "2025-08-14T14:46:39.934041"
+    "fetched": "2025-08-14T15:24:58.159994"
   },
   {
     "repo": "GodCore",
@@ -128,12 +128,12 @@
     "size_kb": 26724,
     "default_branch": "master",
     "updated_at": "2025-08-04T15:16:02Z",
-    "clones": 7,
-    "uniques": 7,
+    "clones": 6,
+    "uniques": 6,
     "views": 10,
     "visitors": 6,
     "pulls_count": 0,
-    "fetched": "2025-08-14T14:46:40.480374"
+    "fetched": "2025-08-14T15:24:58.767480"
   },
   {
     "repo": "AscendNet",
@@ -150,6 +150,6 @@
     "views": 5,
     "visitors": 3,
     "pulls_count": 0,
-    "fetched": "2025-08-14T14:46:40.988705"
+    "fetched": "2025-08-14T15:24:59.317759"
   }
 ]

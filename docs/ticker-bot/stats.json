@@ -14,7 +14,7 @@
     "views": 268,
     "visitors": 9,
     "pulls_count": 0,
-    "fetched": "2025-08-19T05:52:26.517928"
+    "fetched": "2025-08-19T06:04:31.347881"
   },
   {
     "repo": "GremlinGPT",
@@ -31,7 +31,7 @@
     "views": 157,
     "visitors": 23,
     "pulls_count": 0,
-    "fetched": "2025-08-19T05:52:27.084593"
+    "fetched": "2025-08-19T06:04:31.969123"
   },
   {
     "repo": "statik-server",
@@ -48,7 +48,7 @@
     "views": 33,
     "visitors": 6,
     "pulls_count": 0,
-    "fetched": "2025-08-19T05:52:27.736898"
+    "fetched": "2025-08-19T06:04:32.613034"
   },
   {
     "repo": "Gremlin-ShadTail-Trader",
@@ -65,7 +65,7 @@
     "views": 224,
     "visitors": 6,
     "pulls_count": 1,
-    "fetched": "2025-08-19T05:52:28.475500"
+    "fetched": "2025-08-19T06:04:33.245515"
   },
   {
     "repo": "Gremlin-MCP-Scrap",
@@ -82,7 +82,7 @@
     "views": 12,
     "visitors": 3,
     "pulls_count": 0,
-    "fetched": "2025-08-19T05:52:29.063962"
+    "fetched": "2025-08-19T06:04:34.107434"
   },
   {
     "repo": "dragon-boot",
@@ -94,12 +94,12 @@
     "size_kb": 50629,
     "default_branch": "master",
     "updated_at": "2025-08-17T20:18:55Z",
-    "clones": 26,
-    "uniques": 16,
+    "clones": 24,
+    "uniques": 14,
     "views": 134,
     "visitors": 12,
     "pulls_count": 1,
-    "fetched": "2025-08-19T05:52:29.734526"
+    "fetched": "2025-08-19T06:04:34.771701"
   },
   {
     "repo": "AscendDocs-of-GovSeverance",
@@ -116,7 +116,7 @@
     "views": 59,
     "visitors": 15,
     "pulls_count": 0,
-    "fetched": "2025-08-19T05:52:30.332500"
+    "fetched": "2025-08-19T06:04:35.403362"
   },
   {
     "repo": "GodCore",
@@ -133,7 +133,7 @@
     "views": 24,
     "visitors": 3,
     "pulls_count": 0,
-    "fetched": "2025-08-19T05:52:30.948580"
+    "fetched": "2025-08-19T06:04:35.949698"
   },
   {
     "repo": "AscendNet",
@@ -150,6 +150,6 @@
     "views": 16,
     "visitors": 7,
     "pulls_count": 0,
-    "fetched": "2025-08-19T05:52:31.513022"
+    "fetched": "2025-08-19T06:04:36.514367"
   }
 ]

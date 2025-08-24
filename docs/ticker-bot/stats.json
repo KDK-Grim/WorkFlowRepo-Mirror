@@ -14,7 +14,7 @@
     "views": 264,
     "visitors": 7,
     "pulls_count": 0,
-    "fetched": "2025-08-24T02:50:59.330650"
+    "fetched": "2025-08-24T03:46:38.904800"
   },
   {
     "repo": "GremlinGPT",
@@ -31,7 +31,7 @@
     "views": 117,
     "visitors": 19,
     "pulls_count": 0,
-    "fetched": "2025-08-24T02:51:00.150897"
+    "fetched": "2025-08-24T03:46:39.688773"
   },
   {
     "repo": "statik-server",
@@ -48,7 +48,7 @@
     "views": 28,
     "visitors": 5,
     "pulls_count": 0,
-    "fetched": "2025-08-24T02:51:01.125473"
+    "fetched": "2025-08-24T03:46:40.638459"
   },
   {
     "repo": "Gremlin-ShadTail-Trader",
@@ -60,12 +60,12 @@
     "size_kb": 343379,
     "default_branch": "master",
     "updated_at": "2025-08-15T23:58:42Z",
-    "clones": 11,
-    "uniques": 11,
+    "clones": 10,
+    "uniques": 10,
     "views": 53,
     "visitors": 4,
     "pulls_count": 1,
-    "fetched": "2025-08-24T02:51:02.050023"
+    "fetched": "2025-08-24T03:46:41.510041"
   },
   {
     "repo": "Gremlin-MCP-Scrap",
@@ -82,7 +82,7 @@
     "views": 11,
     "visitors": 3,
     "pulls_count": 0,
-    "fetched": "2025-08-24T02:51:02.890377"
+    "fetched": "2025-08-24T03:46:42.345652"
   },
   {
     "repo": "dragon-boot",
@@ -99,7 +99,7 @@
     "views": 121,
     "visitors": 14,
     "pulls_count": 2,
-    "fetched": "2025-08-24T02:51:03.765508"
+    "fetched": "2025-08-24T03:46:43.201719"
   },
   {
     "repo": "AscendDocs-of-GovSeverance",
@@ -116,7 +116,7 @@
     "views": 50,
     "visitors": 8,
     "pulls_count": 0,
-    "fetched": "2025-08-24T02:51:04.622252"
+    "fetched": "2025-08-24T03:46:43.960321"
   },
   {
     "repo": "GodCore",
@@ -133,7 +133,7 @@
     "views": 23,
     "visitors": 2,
     "pulls_count": 0,
-    "fetched": "2025-08-24T02:51:05.454269"
+    "fetched": "2025-08-24T03:46:44.789465"
   },
   {
     "repo": "AscendNet",
@@ -150,6 +150,6 @@
     "views": 16,
     "visitors": 7,
     "pulls_count": 0,
-    "fetched": "2025-08-24T02:51:06.267687"
+    "fetched": "2025-08-24T03:46:45.600942"
   }
 ]

@@ -11,10 +11,10 @@
     "updated_at": "2025-08-24T01:06:56Z",
     "clones": 76,
     "uniques": 26,
-    "views": 256,
+    "views": 254,
     "visitors": 7,
     "pulls_count": 0,
-    "fetched": "2025-08-24T18:57:55.913887"
+    "fetched": "2025-08-24T19:17:06.214207"
   },
   {
     "repo": "GremlinGPT",
@@ -31,7 +31,7 @@
     "views": 116,
     "visitors": 19,
     "pulls_count": 0,
-    "fetched": "2025-08-24T18:57:57.037070"
+    "fetched": "2025-08-24T19:17:07.400854"
   },
   {
     "repo": "statik-server",
@@ -42,13 +42,13 @@
     "language": "TypeScript",
     "size_kb": 354185,
     "default_branch": "master",
-    "updated_at": "2025-08-16T21:14:42Z",
+    "updated_at": "2025-08-24T19:09:39Z",
     "clones": 7,
     "uniques": 3,
     "views": 28,
     "visitors": 5,
     "pulls_count": 0,
-    "fetched": "2025-08-24T18:57:58.184986"
+    "fetched": "2025-08-24T19:17:08.589936"
   },
   {
     "repo": "Gremlin-ShadTail-Trader",
@@ -65,7 +65,7 @@
     "views": 53,
     "visitors": 4,
     "pulls_count": 1,
-    "fetched": "2025-08-24T18:57:59.309486"
+    "fetched": "2025-08-24T19:17:09.664779"
   },
   {
     "repo": "Gremlin-MCP-Scrap",
@@ -77,12 +77,12 @@
     "size_kb": 57,
     "default_branch": "master",
     "updated_at": "2025-08-10T19:46:56Z",
-    "clones": 12,
-    "uniques": 11,
-    "views": 10,
+    "clones": 8,
+    "uniques": 7,
+    "views": 4,
     "visitors": 3,
     "pulls_count": 0,
-    "fetched": "2025-08-24T18:58:00.384831"
+    "fetched": "2025-08-24T19:17:10.781083"
   },
   {
     "repo": "dragon-boot",
@@ -99,7 +99,7 @@
     "views": 132,
     "visitors": 13,
     "pulls_count": 0,
-    "fetched": "2025-08-24T18:58:01.599227"
+    "fetched": "2025-08-24T19:17:11.896666"
   },
   {
     "repo": "AscendDocs-of-GovSeverance",
@@ -116,7 +116,7 @@
     "views": 34,
     "visitors": 8,
     "pulls_count": 0,
-    "fetched": "2025-08-24T18:58:02.676377"
+    "fetched": "2025-08-24T19:17:13.055830"
   },
   {
     "repo": "GodCore",
@@ -133,7 +133,7 @@
     "views": 23,
     "visitors": 2,
     "pulls_count": 0,
-    "fetched": "2025-08-24T18:58:03.762504"
+    "fetched": "2025-08-24T19:17:14.207952"
   },
   {
     "repo": "AscendNet",
@@ -141,15 +141,15 @@
     "forks": 0,
     "watchers": 2,
     "open_issues": 0,
-    "language": "Go",
+    "language": "TypeScript",
     "size_kb": 126630,
     "default_branch": "master",
-    "updated_at": "2025-08-16T21:10:53Z",
+    "updated_at": "2025-08-24T19:13:42Z",
     "clones": 12,
     "uniques": 11,
     "views": 16,
     "visitors": 7,
     "pulls_count": 0,
-    "fetched": "2025-08-24T18:58:04.873127"
+    "fetched": "2025-08-24T19:17:15.344280"
   }
 ]

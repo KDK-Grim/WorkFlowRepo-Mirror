@@ -1,13 +1,13 @@
 {
   "day": {
-    "clones": 1,
-    "uniqueClones": 1,
+    "clones": 2,
+    "uniqueClones": 2,
     "views": 5,
     "uniqueViews": 2
   },
   "range14d": {
-    "clones": 15,
-    "uniqueClones": 15,
+    "clones": 16,
+    "uniqueClones": 16,
     "views": 64,
     "uniqueViews": 20
   },

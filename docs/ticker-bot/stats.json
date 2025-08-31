@@ -11,10 +11,10 @@
     "updated_at": "2025-08-31T05:27:35Z",
     "clones": 51,
     "uniques": 24,
-    "views": 148,
-    "visitors": 9,
+    "views": 146,
+    "visitors": 7,
     "pulls_count": 0,
-    "fetched": "2025-08-31T08:46:57.027271"
+    "fetched": "2025-08-31T09:01:09.262889"
   },
   {
     "repo": "GremlinGPT",
@@ -31,7 +31,7 @@
     "views": 38,
     "visitors": 8,
     "pulls_count": 0,
-    "fetched": "2025-08-31T08:46:57.819105"
+    "fetched": "2025-08-31T09:01:10.043224"
   },
   {
     "repo": "statik-server",
@@ -48,7 +48,7 @@
     "views": 24,
     "visitors": 3,
     "pulls_count": 0,
-    "fetched": "2025-08-31T08:46:58.419714"
+    "fetched": "2025-08-31T09:01:10.792794"
   },
   {
     "repo": "Gremlin-ShadTail-Trader",
@@ -65,7 +65,7 @@
     "views": 33,
     "visitors": 2,
     "pulls_count": 1,
-    "fetched": "2025-08-31T08:46:59.094930"
+    "fetched": "2025-08-31T09:01:11.514613"
   },
   {
     "repo": "Gremlin-MCP-Scrap",
@@ -82,7 +82,7 @@
     "views": 13,
     "visitors": 2,
     "pulls_count": 0,
-    "fetched": "2025-08-31T08:46:59.747422"
+    "fetched": "2025-08-31T09:01:12.209563"
   },
   {
     "repo": "dragon-boot",
@@ -96,10 +96,10 @@
     "updated_at": "2025-08-28T14:59:39Z",
     "clones": 35,
     "uniques": 23,
-    "views": 57,
-    "visitors": 7,
+    "views": 56,
+    "visitors": 6,
     "pulls_count": 0,
-    "fetched": "2025-08-31T08:47:00.318939"
+    "fetched": "2025-08-31T09:01:12.928301"
   },
   {
     "repo": "AscendDocs-of-GovSeverance",
@@ -116,7 +116,7 @@
     "views": 18,
     "visitors": 5,
     "pulls_count": 0,
-    "fetched": "2025-08-31T08:47:00.873399"
+    "fetched": "2025-08-31T09:01:13.726379"
   },
   {
     "repo": "GodCore",
@@ -133,7 +133,7 @@
     "views": 4,
     "visitors": 3,
     "pulls_count": 0,
-    "fetched": "2025-08-31T08:47:01.542773"
+    "fetched": "2025-08-31T09:01:14.422690"
   },
   {
     "repo": "AscendNet",
@@ -150,6 +150,6 @@
     "views": 24,
     "visitors": 7,
     "pulls_count": 0,
-    "fetched": "2025-08-31T08:47:02.112346"
+    "fetched": "2025-08-31T09:01:15.111091"
   }
 ]

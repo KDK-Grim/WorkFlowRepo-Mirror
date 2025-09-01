@@ -1,6 +1,6 @@
 
 **GitHub Traffic Totals**
 
-- **Today (2025-08-31):** Clones: 19 | Unique Cloners: 18 | Views: 65 | Unique Visitors: 1
-- **Last 14 days:** Clones: 25 | Unique Cloners: 24 | Views: 87 | Unique Visitors: 6
+- **Today (2025-09-01):** Clones: 6 | Unique Cloners: 6 | Views: 18 | Unique Visitors: 1
+- **Last 14 days:** Clones: 31 | Unique Cloners: 30 | Views: 105 | Unique Visitors: 7
 - **Lifetime:** Clones: 42 | Unique Cloners: 40 | Views: 214 | Unique Visitors: 35

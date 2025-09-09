@@ -11,10 +11,10 @@
     "updated_at": "2025-09-08T17:42:50Z",
     "clones": 122,
     "uniques": 30,
-    "views": 130,
-    "visitors": 6,
+    "views": 129,
+    "visitors": 5,
     "pulls_count": 0,
-    "fetched": "2025-09-09T22:54:16.464340"
+    "fetched": "2025-09-09T23:20:41.560468"
   },
   {
     "repo": "GremlinGPT",
@@ -28,10 +28,10 @@
     "updated_at": "2025-09-03T06:39:47Z",
     "clones": 48,
     "uniques": 38,
-    "views": 233,
-    "visitors": 7,
+    "views": 234,
+    "visitors": 8,
     "pulls_count": 0,
-    "fetched": "2025-09-09T22:54:17.572369"
+    "fetched": "2025-09-09T23:20:42.096146"
   },
   {
     "repo": "statik-server",
@@ -48,7 +48,7 @@
     "views": 5,
     "visitors": 2,
     "pulls_count": 0,
-    "fetched": "2025-09-09T22:54:18.806984"
+    "fetched": "2025-09-09T23:20:42.749099"
   },
   {
     "repo": "Gremlin-ShadTail-Trader",
@@ -65,7 +65,7 @@
     "views": 1,
     "visitors": 1,
     "pulls_count": 1,
-    "fetched": "2025-09-09T22:54:20.026021"
+    "fetched": "2025-09-09T23:20:43.314599"
   },
   {
     "repo": "Gremlin-MCP-Scrap",
@@ -82,7 +82,7 @@
     "views": 0,
     "visitors": 0,
     "pulls_count": 0,
-    "fetched": "2025-09-09T22:54:21.154103"
+    "fetched": "2025-09-09T23:20:43.872610"
   },
   {
     "repo": "dragon-boot",
@@ -96,10 +96,10 @@
     "updated_at": "2025-08-28T14:59:39Z",
     "clones": 5,
     "uniques": 5,
-    "views": 5,
-    "visitors": 3,
+    "views": 6,
+    "visitors": 4,
     "pulls_count": 0,
-    "fetched": "2025-09-09T22:54:22.244028"
+    "fetched": "2025-09-09T23:20:44.398911"
   },
   {
     "repo": "AscendDocs-of-GovSeverance",
@@ -116,7 +116,7 @@
     "views": 17,
     "visitors": 3,
     "pulls_count": 0,
-    "fetched": "2025-09-09T22:54:23.412567"
+    "fetched": "2025-09-09T23:20:45.024484"
   },
   {
     "repo": "GodCore",
@@ -133,7 +133,7 @@
     "views": 35,
     "visitors": 4,
     "pulls_count": 0,
-    "fetched": "2025-09-09T22:54:24.537241"
+    "fetched": "2025-09-09T23:20:45.530468"
   },
   {
     "repo": "AscendNet",
@@ -150,6 +150,6 @@
     "views": 4,
     "visitors": 4,
     "pulls_count": 0,
-    "fetched": "2025-09-09T22:54:25.648981"
+    "fetched": "2025-09-09T23:20:46.048004"
   }
 ]

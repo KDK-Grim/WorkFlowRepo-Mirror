@@ -11,10 +11,10 @@
     "updated_at": "2025-09-08T17:42:50Z",
     "clones": 123,
     "uniques": 30,
-    "views": 118,
-    "visitors": 8,
+    "views": 117,
+    "visitors": 7,
     "pulls_count": 0,
-    "fetched": "2025-09-09T11:45:03.728829"
+    "fetched": "2025-09-09T12:08:38.397057"
   },
   {
     "repo": "GremlinGPT",
@@ -31,7 +31,7 @@
     "views": 233,
     "visitors": 7,
     "pulls_count": 0,
-    "fetched": "2025-09-09T11:45:04.723237"
+    "fetched": "2025-09-09T12:08:39.221582"
   },
   {
     "repo": "statik-server",
@@ -48,7 +48,7 @@
     "views": 5,
     "visitors": 2,
     "pulls_count": 0,
-    "fetched": "2025-09-09T11:45:05.750983"
+    "fetched": "2025-09-09T12:08:40.103002"
   },
   {
     "repo": "Gremlin-ShadTail-Trader",
@@ -65,7 +65,7 @@
     "views": 1,
     "visitors": 1,
     "pulls_count": 1,
-    "fetched": "2025-09-09T11:45:06.799578"
+    "fetched": "2025-09-09T12:08:41.050300"
   },
   {
     "repo": "Gremlin-MCP-Scrap",
@@ -79,10 +79,10 @@
     "updated_at": "2025-08-26T00:42:34Z",
     "clones": 5,
     "uniques": 5,
-    "views": 8,
-    "visitors": 1,
+    "views": 0,
+    "visitors": 0,
     "pulls_count": 0,
-    "fetched": "2025-09-09T11:45:07.810901"
+    "fetched": "2025-09-09T12:08:41.960067"
   },
   {
     "repo": "dragon-boot",
@@ -99,7 +99,7 @@
     "views": 5,
     "visitors": 3,
     "pulls_count": 0,
-    "fetched": "2025-09-09T11:45:08.864369"
+    "fetched": "2025-09-09T12:08:42.748792"
   },
   {
     "repo": "AscendDocs-of-GovSeverance",
@@ -113,10 +113,10 @@
     "updated_at": "2025-08-26T00:42:31Z",
     "clones": 6,
     "uniques": 5,
-    "views": 19,
-    "visitors": 4,
+    "views": 17,
+    "visitors": 3,
     "pulls_count": 0,
-    "fetched": "2025-09-09T11:45:09.911646"
+    "fetched": "2025-09-09T12:08:43.578697"
   },
   {
     "repo": "GodCore",
@@ -133,7 +133,7 @@
     "views": 35,
     "visitors": 4,
     "pulls_count": 0,
-    "fetched": "2025-09-09T11:45:10.881463"
+    "fetched": "2025-09-09T12:08:44.677330"
   },
   {
     "repo": "AscendNet",
@@ -150,6 +150,6 @@
     "views": 10,
     "visitors": 5,
     "pulls_count": 0,
-    "fetched": "2025-09-09T11:45:11.858984"
+    "fetched": "2025-09-09T12:08:45.472079"
   }
 ]

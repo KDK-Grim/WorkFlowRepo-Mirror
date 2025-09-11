@@ -14,7 +14,7 @@
     "views": 103,
     "visitors": 6,
     "pulls_count": 0,
-    "fetched": "2025-09-11T21:04:05.685210"
+    "fetched": "2025-09-11T21:28:19.216462"
   },
   {
     "repo": "GremlinGPT",
@@ -31,7 +31,7 @@
     "views": 235,
     "visitors": 13,
     "pulls_count": 0,
-    "fetched": "2025-09-11T21:04:06.181869"
+    "fetched": "2025-09-11T21:28:20.443682"
   },
   {
     "repo": "statik-server",
@@ -48,7 +48,7 @@
     "views": 1,
     "visitors": 1,
     "pulls_count": 0,
-    "fetched": "2025-09-11T21:04:06.759822"
+    "fetched": "2025-09-11T21:28:21.562855"
   },
   {
     "repo": "Gremlin-ShadTail-Trader",
@@ -62,10 +62,10 @@
     "updated_at": "2025-08-26T00:42:26Z",
     "clones": 7,
     "uniques": 7,
-    "views": 6,
+    "views": 7,
     "visitors": 1,
     "pulls_count": 1,
-    "fetched": "2025-09-11T21:04:07.495839"
+    "fetched": "2025-09-11T21:28:22.663818"
   },
   {
     "repo": "Gremlin-MCP-Scrap",
@@ -82,7 +82,7 @@
     "views": 0,
     "visitors": 0,
     "pulls_count": 0,
-    "fetched": "2025-09-11T21:04:08.055622"
+    "fetched": "2025-09-11T21:28:23.630903"
   },
   {
     "repo": "dragon-boot",
@@ -99,7 +99,7 @@
     "views": 9,
     "visitors": 7,
     "pulls_count": 0,
-    "fetched": "2025-09-11T21:04:08.558089"
+    "fetched": "2025-09-11T21:28:24.612316"
   },
   {
     "repo": "AscendDocs-of-GovSeverance",
@@ -116,7 +116,7 @@
     "views": 21,
     "visitors": 2,
     "pulls_count": 0,
-    "fetched": "2025-09-11T21:04:09.101874"
+    "fetched": "2025-09-11T21:28:25.630198"
   },
   {
     "repo": "GodCore",
@@ -133,7 +133,7 @@
     "views": 37,
     "visitors": 7,
     "pulls_count": 0,
-    "fetched": "2025-09-11T21:04:09.687398"
+    "fetched": "2025-09-11T21:28:26.680822"
   },
   {
     "repo": "AscendNet",
@@ -150,6 +150,6 @@
     "views": 8,
     "visitors": 5,
     "pulls_count": 0,
-    "fetched": "2025-09-11T21:04:10.196345"
+    "fetched": "2025-09-11T21:28:27.786325"
   }
 ]

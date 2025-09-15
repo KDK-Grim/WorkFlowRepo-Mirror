@@ -14,7 +14,7 @@
     "views": 79,
     "visitors": 9,
     "pulls_count": 0,
-    "fetched": "2025-09-15T16:50:31.078598"
+    "fetched": "2025-09-15T17:06:47.272035"
   },
   {
     "repo": "GremlinGPT",
@@ -26,12 +26,12 @@
     "size_kb": 80176,
     "default_branch": "master",
     "updated_at": "2025-09-11T22:57:48Z",
-    "clones": 28,
-    "uniques": 20,
-    "views": 164,
+    "clones": 27,
+    "uniques": 19,
+    "views": 154,
     "visitors": 15,
     "pulls_count": 0,
-    "fetched": "2025-09-15T16:50:31.632840"
+    "fetched": "2025-09-15T17:06:47.823854"
   },
   {
     "repo": "statik-server",
@@ -48,7 +48,7 @@
     "views": 1,
     "visitors": 1,
     "pulls_count": 0,
-    "fetched": "2025-09-15T16:50:32.232016"
+    "fetched": "2025-09-15T17:06:48.568637"
   },
   {
     "repo": "Gremlin-ShadTail-Trader",
@@ -65,7 +65,7 @@
     "views": 8,
     "visitors": 3,
     "pulls_count": 1,
-    "fetched": "2025-09-15T16:50:32.814612"
+    "fetched": "2025-09-15T17:06:49.214356"
   },
   {
     "repo": "Gremlin-MCP-Scrap",
@@ -82,7 +82,7 @@
     "views": 0,
     "visitors": 0,
     "pulls_count": 0,
-    "fetched": "2025-09-15T16:50:33.352541"
+    "fetched": "2025-09-15T17:06:49.816970"
   },
   {
     "repo": "dragon-boot",
@@ -99,7 +99,7 @@
     "views": 6,
     "visitors": 6,
     "pulls_count": 0,
-    "fetched": "2025-09-15T16:50:33.925352"
+    "fetched": "2025-09-15T17:06:50.429958"
   },
   {
     "repo": "AscendDocs-of-GovSeverance",
@@ -116,7 +116,7 @@
     "views": 17,
     "visitors": 1,
     "pulls_count": 0,
-    "fetched": "2025-09-15T16:50:34.472861"
+    "fetched": "2025-09-15T17:06:51.042076"
   },
   {
     "repo": "GodCore",
@@ -133,7 +133,7 @@
     "views": 37,
     "visitors": 7,
     "pulls_count": 0,
-    "fetched": "2025-09-15T16:50:35.037279"
+    "fetched": "2025-09-15T17:06:51.603064"
   },
   {
     "repo": "AscendNet",
@@ -150,6 +150,6 @@
     "views": 8,
     "visitors": 4,
     "pulls_count": 0,
-    "fetched": "2025-09-15T16:50:35.566504"
+    "fetched": "2025-09-15T17:06:52.193489"
   }
 ]

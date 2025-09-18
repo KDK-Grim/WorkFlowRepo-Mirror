@@ -14,7 +14,7 @@
     "views": 116,
     "visitors": 12,
     "pulls_count": 0,
-    "fetched": "2025-09-18T01:24:41.290210"
+    "fetched": "2025-09-18T02:47:26.871577"
   },
   {
     "repo": "GremlinGPT",
@@ -31,7 +31,7 @@
     "views": 36,
     "visitors": 14,
     "pulls_count": 0,
-    "fetched": "2025-09-18T01:24:41.822303"
+    "fetched": "2025-09-18T02:47:27.868186"
   },
   {
     "repo": "statik-server",
@@ -48,7 +48,7 @@
     "views": 1,
     "visitors": 1,
     "pulls_count": 0,
-    "fetched": "2025-09-18T01:24:42.433450"
+    "fetched": "2025-09-18T02:47:28.882976"
   },
   {
     "repo": "Gremlin-ShadTail-Trader",
@@ -60,12 +60,12 @@
     "size_kb": 343379,
     "default_branch": "master",
     "updated_at": "2025-08-26T00:42:26Z",
-    "clones": 4,
-    "uniques": 4,
+    "clones": 3,
+    "uniques": 3,
     "views": 10,
     "visitors": 4,
     "pulls_count": 1,
-    "fetched": "2025-09-18T01:24:43.019453"
+    "fetched": "2025-09-18T02:47:29.981544"
   },
   {
     "repo": "Gremlin-MCP-Scrap",
@@ -82,7 +82,7 @@
     "views": 5,
     "visitors": 2,
     "pulls_count": 0,
-    "fetched": "2025-09-18T01:24:43.555868"
+    "fetched": "2025-09-18T02:47:31.035151"
   },
   {
     "repo": "dragon-boot",
@@ -99,7 +99,7 @@
     "views": 7,
     "visitors": 7,
     "pulls_count": 0,
-    "fetched": "2025-09-18T01:24:44.103872"
+    "fetched": "2025-09-18T02:47:32.030926"
   },
   {
     "repo": "AscendDocs-of-GovSeverance",
@@ -116,7 +116,7 @@
     "views": 17,
     "visitors": 1,
     "pulls_count": 0,
-    "fetched": "2025-09-18T01:24:44.632256"
+    "fetched": "2025-09-18T02:47:33.103550"
   },
   {
     "repo": "GodCore",
@@ -133,7 +133,7 @@
     "views": 37,
     "visitors": 7,
     "pulls_count": 0,
-    "fetched": "2025-09-18T01:24:45.221973"
+    "fetched": "2025-09-18T02:47:34.107536"
   },
   {
     "repo": "AscendNet",
@@ -150,6 +150,6 @@
     "views": 9,
     "visitors": 4,
     "pulls_count": 0,
-    "fetched": "2025-09-18T01:24:45.866535"
+    "fetched": "2025-09-18T02:47:35.093664"
   }
 ]

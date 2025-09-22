@@ -91,6 +91,11 @@
       "timestamp": "2025-09-21T00:00:00Z",
       "count": 5,
       "uniques": 2
+    },
+    {
+      "timestamp": "2025-09-22T00:00:00Z",
+      "count": 3,
+      "uniques": 1
     }
   ]
 }
